@@ -9,5 +9,7 @@ public class MisbahActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_misbah);
+
+        //halo misbah
     }
 }
