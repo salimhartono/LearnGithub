@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">LearnGithub</string>
+
+    <string name="myself">
+
+        <item>Assalamualaikum Warahmatullahi Wabarakatu My Friends Muslim Perkenalkan Nama Saya Abdurrahman Wafi Adzima Ramadhan Biasa Dipanggil Wafi Saya Lahir DiBogor Tahun 2005 Tanggal 15 Bulan Oktober Saya Sekarang Bersekolah DI IDN Boarding School Tempatnya DiJonggol .</item>
+
+    </string>
+
+    <string name="contact">
+
+        <item>Email : tigerunited109@gmail.com</item>
+        <item>Instagram : @wafiii05</item>
+        <item>Facebook : Abdurrahman Wafi</item>
+        <item>GitHub : KasiiihWafi</item>
+
+    </string>
+
 </resources>
